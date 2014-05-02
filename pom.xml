@@ -76,17 +76,17 @@
             <optional>true</optional>
         </dependency>
 
-        <dependency>
-            <groupId>com.google</groupId>
-            <artifactId>volley</artifactId>
-            <version>${volley.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.google</groupId>-->
+            <!--<artifactId>volley</artifactId>-->
+            <!--<version>${volley.version}</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>de.greenrobot</groupId>
-            <artifactId>greendao</artifactId>
-            <version>${greendao.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>de.greenrobot</groupId>-->
+            <!--<artifactId>greendao</artifactId>-->
+            <!--<version>${greendao.version}</version>-->
+        <!--</dependency>-->
 
         <!-- Testing Frameworks -->
         <dependency>
